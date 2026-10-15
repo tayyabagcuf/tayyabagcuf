@@ -59,45 +59,34 @@ I'm interested in software development, problem-solving, web technologies, and b
 ### 🐍 Python & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,numpy" alt="Python and NumPy" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda" alt="Python and Anaconda" />
 </p>
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-8A2BE2?style=for-the-badge&logo=probot&logoColor=white" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-ML-00A98F?style=for-the-badge&logo=dependabot&logoColor=white" alt="Machine Learning" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn" alt="Python and Scikit-learn" />
 </p>
 
 ### 🧠 Deep Learning & Neural Networks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch and TensorFlow" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-FF6F00?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Learning" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras" alt="PyTorch, TensorFlow and Keras" />
 </p>
 
 ### 📊 Data Analysis & Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="48" alt="Plotly" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" alt="Jupyter" />
 </p>
 
 ### 👁️ Computer Vision & Image Processing
 
 <p>
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Image%20Processing-Computer%20Vision-0078D4?style=for-the-badge" alt="Image Processing" />
-</p>
-
-### 📈 AI/ML Learning Journey
-
-<p>
-  <img src="https://img.shields.io/badge/Supervised%20Learning-Regression%20%26%20Classification-2E8B57?style=for-the-badge" alt="Supervised Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-CNN%20%26%20RNN-FF69B4?style=for-the-badge" alt="CNN and RNN" />
-  <img src="https://img.shields.io/badge/Time%20Series-Forecasting-4169E1?style=for-the-badge" alt="Time Series Forecasting" />
+  <img src="https://skillicons.dev/icons?i=opencv,python" alt="OpenCV and Python" />
 </p>
 
 ---
